@@ -1,0 +1,192 @@
+{
+  "picker_completion_time_s": 440,
+  "agv_completion_time_s": 497,
+  "total_agv_cost_cny": 2.106845,
+  "waiting_time_s": 863,
+  "best_task_permutation": [
+    19,
+    23,
+    24,
+    12,
+    18,
+    16,
+    14,
+    7,
+    10,
+    26,
+    28,
+    22,
+    20,
+    21,
+    25,
+    2,
+    8,
+    30,
+    6,
+    1,
+    4,
+    3,
+    27,
+    29,
+    17,
+    11,
+    13,
+    9,
+    15,
+    5
+  ],
+  "agv_task_sequences": {
+    "1": [
+      19,
+      16,
+      28,
+      2,
+      4,
+      11
+    ],
+    "2": [
+      23,
+      14,
+      22,
+      8,
+      3,
+      13
+    ],
+    "3": [
+      24,
+      7,
+      20,
+      30,
+      27,
+      9
+    ],
+    "4": [
+      12,
+      10,
+      21,
+      6,
+      29,
+      15
+    ],
+    "5": [
+      18,
+      26,
+      25,
+      1,
+      17,
+      5
+    ]
+  },
+  "history_last": [
+    {
+      "generation": 91,
+      "generation_best_score": 367.00276,
+      "generation_best_picker_time": 277,
+      "generation_best_cost": 1.6878449999999998,
+      "best_score": 367.00276,
+      "best_picker_time": 277,
+      "best_agv_time": 304,
+      "best_cost": 1.6878449999999998,
+      "best_waiting_time": 25
+    },
+    {
+      "generation": 92,
+      "generation_best_score": 367.00276,
+      "generation_best_picker_time": 277,
+      "generation_best_cost": 1.6878449999999998,
+      "best_score": 367.00276,
+      "best_picker_time": 277,
+      "best_agv_time": 304,
+      "best_cost": 1.6878449999999998,
+      "best_waiting_time": 25
+    },
+    {
+      "generation": 93,
+      "generation_best_score": 367.00276,
+      "generation_best_picker_time": 277,
+      "generation_best_cost": 1.6878449999999998,
+      "best_score": 367.00276,
+      "best_picker_time": 277,
+      "best_agv_time": 304,
+      "best_cost": 1.6878449999999998,
+      "best_waiting_time": 25
+    },
+    {
+      "generation": 94,
+      "generation_best_score": 367.00276,
+      "generation_best_picker_time": 277,
+      "generation_best_cost": 1.6878449999999998,
+      "best_score": 367.00276,
+      "best_picker_time": 277,
+      "best_agv_time": 304,
+      "best_cost": 1.6878449999999998,
+      "best_waiting_time": 25
+    },
+    {
+      "generation": 95,
+      "generation_best_score": 367.00276,
+      "generation_best_picker_time": 277,
+      "generation_best_cost": 1.6878449999999998,
+      "best_score": 367.00276,
+      "best_picker_time": 277,
+      "best_agv_time": 304,
+      "best_cost": 1.6878449999999998,
+      "best_waiting_time": 25
+    },
+    {
+      "generation": 96,
+      "generation_best_score": 367.00276,
+      "generation_best_picker_time": 277,
+      "generation_best_cost": 1.6878449999999998,
+      "best_score": 367.00276,
+      "best_picker_time": 277,
+      "best_agv_time": 304,
+      "best_cost": 1.6878449999999998,
+      "best_waiting_time": 25
+    },
+    {
+      "generation": 97,
+      "generation_best_score": 367.00276,
+      "generation_best_picker_time": 277,
+      "generation_best_cost": 1.6878449999999998,
+      "best_score": 367.00276,
+      "best_picker_time": 277,
+      "best_agv_time": 304,
+      "best_cost": 1.6878449999999998,
+      "best_waiting_time": 25
+    },
+    {
+      "generation": 98,
+      "generation_best_score": 367.00276,
+      "generation_best_picker_time": 277,
+      "generation_best_cost": 1.6878449999999998,
+      "best_score": 367.00276,
+      "best_picker_time": 277,
+      "best_agv_time": 304,
+      "best_cost": 1.6878449999999998,
+      "best_waiting_time": 25
+    },
+    {
+      "generation": 99,
+      "generation_best_score": 367.00276,
+      "generation_best_picker_time": 277,
+      "generation_best_cost": 1.6878449999999998,
+      "best_score": 367.00276,
+      "best_picker_time": 277,
+      "best_agv_time": 304,
+      "best_cost": 1.6878449999999998,
+      "best_waiting_time": 25
+    },
+    {
+      "generation": 100,
+      "generation_best_score": 367.00276,
+      "generation_best_picker_time": 277,
+      "generation_best_cost": 1.6878449999999998,
+      "best_score": 367.00276,
+      "best_picker_time": 277,
+      "best_agv_time": 304,
+      "best_cost": 1.6878449999999998,
+      "best_waiting_time": 25
+    }
+  ]
+}

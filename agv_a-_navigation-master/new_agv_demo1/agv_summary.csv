@@ -1,0 +1,10 @@
+﻿metric,value
+candidate_agv_count,20
+used_agv_count,8
+pickup_count,2
+station_size,3x3
+total_delay,4861
+max_delay,287
+avg_delay,135.03
+total_distance,2614
+makespan,384

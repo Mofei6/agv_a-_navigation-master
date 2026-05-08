@@ -1,0 +1,357 @@
+{
+  "name": "masp_bc_30_jobs_seed_42",
+  "seed": 42,
+  "depot": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "stations": [
+    {
+      "id": 0,
+      "x": 32.71,
+      "y": 17.93
+    },
+    {
+      "id": 1,
+      "x": 61.96,
+      "y": 30.03
+    },
+    {
+      "id": 2,
+      "x": 43.81,
+      "y": 12.31
+    },
+    {
+      "id": 3,
+      "x": 50.26,
+      "y": 20.66
+    },
+    {
+      "id": 4,
+      "x": 88.64,
+      "y": 99.52
+    },
+    {
+      "id": 5,
+      "x": 86.79,
+      "y": 54.97
+    },
+    {
+      "id": 6,
+      "x": 67.78,
+      "y": 87.53
+    },
+    {
+      "id": 7,
+      "x": 63.68,
+      "y": 18.17
+    },
+    {
+      "id": 8,
+      "x": 22.62,
+      "y": 95.51
+    },
+    {
+      "id": 9,
+      "x": 93.21,
+      "y": 90.05
+    },
+    {
+      "id": 10,
+      "x": 59.55,
+      "y": 26.25
+    },
+    {
+      "id": 11,
+      "x": 59.51,
+      "y": 33.31
+    },
+    {
+      "id": 12,
+      "x": 94.88,
+      "y": 83.94
+    },
+    {
+      "id": 13,
+      "x": 23.98,
+      "y": 84.65
+    },
+    {
+      "id": 14,
+      "x": 52.02,
+      "y": 15.46
+    },
+    {
+      "id": 15,
+      "x": 12.02,
+      "y": 58.36
+    },
+    {
+      "id": 16,
+      "x": 84.7,
+      "y": 86.08
+    },
+    {
+      "id": 17,
+      "x": 71.28,
+      "y": 44.27
+    },
+    {
+      "id": 18,
+      "x": 62.71,
+      "y": 72.68
+    },
+    {
+      "id": 19,
+      "x": 74.02,
+      "y": 74.68
+    }
+  ],
+  "jobs": [
+    {
+      "id": 0,
+      "station_id": 19,
+      "duration": 6.555,
+      "energy": 8.742,
+      "weight": 12.34,
+      "distance": 105.148
+    },
+    {
+      "id": 1,
+      "station_id": 3,
+      "duration": 4.516,
+      "energy": 5.333,
+      "weight": 14.53,
+      "distance": 54.341
+    },
+    {
+      "id": 2,
+      "station_id": 15,
+      "duration": 5.165,
+      "energy": 19.528,
+      "weight": 65.35,
+      "distance": 59.585
+    },
+    {
+      "id": 3,
+      "station_id": 7,
+      "duration": 4.296,
+      "energy": 9.439,
+      "weight": 25.4,
+      "distance": 66.222
+    },
+    {
+      "id": 4,
+      "station_id": 0,
+      "duration": 3.326,
+      "energy": 6.323,
+      "weight": 30.05,
+      "distance": 37.302
+    },
+    {
+      "id": 5,
+      "station_id": 17,
+      "duration": 7.224,
+      "energy": 10.158,
+      "weight": 19.45,
+      "distance": 83.909
+    },
+    {
+      "id": 6,
+      "station_id": 17,
+      "duration": 6.103,
+      "energy": 13.955,
+      "weight": 30.25,
+      "distance": 83.909
+    },
+    {
+      "id": 7,
+      "station_id": 6,
+      "duration": 5.816,
+      "energy": 41.888,
+      "weight": 78.5,
+      "distance": 110.705
+    },
+    {
+      "id": 8,
+      "station_id": 2,
+      "duration": 5.585,
+      "energy": 15.341,
+      "weight": 65.43,
+      "distance": 45.507
+    },
+    {
+      "id": 9,
+      "station_id": 8,
+      "duration": 7.056,
+      "energy": 15.309,
+      "weight": 28.0,
+      "distance": 98.152
+    },
+    {
+      "id": 10,
+      "station_id": 2,
+      "duration": 4.348,
+      "energy": 4.46,
+      "weight": 13.8,
+      "distance": 45.507
+    },
+    {
+      "id": 11,
+      "station_id": 4,
+      "duration": 8.143,
+      "energy": 38.021,
+      "weight": 57.34,
+      "distance": 133.271
+    },
+    {
+      "id": 12,
+      "station_id": 9,
+      "duration": 6.813,
+      "energy": 16.117,
+      "weight": 22.05,
+      "distance": 129.604
+    },
+    {
+      "id": 13,
+      "station_id": 13,
+      "duration": 7.165,
+      "energy": 29.085,
+      "weight": 66.27,
+      "distance": 87.981
+    },
+    {
+      "id": 14,
+      "station_id": 13,
+      "duration": 7.038,
+      "energy": 16.721,
+      "weight": 35.12,
+      "distance": 87.981
+    },
+    {
+      "id": 15,
+      "station_id": 3,
+      "duration": 3.552,
+      "energy": 12.663,
+      "weight": 45.49,
+      "distance": 54.341
+    },
+    {
+      "id": 16,
+      "station_id": 13,
+      "duration": 7.483,
+      "energy": 17.554,
+      "weight": 36.95,
+      "distance": 87.981
+    },
+    {
+      "id": 17,
+      "station_id": 14,
+      "duration": 4.462,
+      "energy": 3.822,
+      "weight": 8.42,
+      "distance": 54.269
+    },
+    {
+      "id": 18,
+      "station_id": 1,
+      "duration": 6.231,
+      "energy": 26.677,
+      "weight": 78.4,
+      "distance": 68.854
+    },
+    {
+      "id": 19,
+      "station_id": 15,
+      "duration": 3.889,
+      "energy": 10.802,
+      "weight": 33.99,
+      "distance": 59.585
+    },
+    {
+      "id": 20,
+      "station_id": 5,
+      "duration": 6.579,
+      "energy": 34.347,
+      "weight": 68.07,
+      "distance": 102.734
+    },
+    {
+      "id": 21,
+      "station_id": 18,
+      "duration": 5.433,
+      "energy": 14.909,
+      "weight": 28.7,
+      "distance": 95.994
+    },
+    {
+      "id": 22,
+      "station_id": 10,
+      "duration": 4.395,
+      "energy": 12.215,
+      "weight": 35.29,
+      "distance": 65.079
+    },
+    {
+      "id": 23,
+      "station_id": 0,
+      "duration": 4.436,
+      "energy": 7.012,
+      "weight": 32.5,
+      "distance": 37.302
+    },
+    {
+      "id": 24,
+      "station_id": 9,
+      "duration": 6.949,
+      "energy": 32.168,
+      "weight": 49.51,
+      "distance": 129.604
+    },
+    {
+      "id": 25,
+      "station_id": 14,
+      "duration": 4.829,
+      "energy": 14.134,
+      "weight": 50.27,
+      "distance": 54.269
+    },
+    {
+      "id": 26,
+      "station_id": 4,
+      "duration": 7.47,
+      "energy": 25.281,
+      "weight": 36.37,
+      "distance": 133.271
+    },
+    {
+      "id": 27,
+      "station_id": 18,
+      "duration": 5.546,
+      "energy": 34.531,
+      "weight": 74.06,
+      "distance": 95.994
+    },
+    {
+      "id": 28,
+      "station_id": 18,
+      "duration": 6.554,
+      "energy": 34.914,
+      "weight": 74.36,
+      "distance": 95.994
+    },
+    {
+      "id": 29,
+      "station_id": 0,
+      "duration": 3.258,
+      "energy": 8.913,
+      "weight": 45.58,
+      "distance": 37.302
+    }
+  ],
+  "max_agvs": 20,
+  "battery_capacity": 100.0,
+  "full_charge_minutes": 60.0,
+  "tau": 0.6,
+  "notes": "Each job is one roundtrip depot-station-depot. Energy is battery percentage points."
+}

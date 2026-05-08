@@ -1,0 +1,12 @@
+﻿metric,value
+candidate_agv_count,20
+used_agv_count,6
+unused_candidate_agv_count,14
+pickup_count,2
+total_delay,730
+max_delay,100
+avg_delay,36.5
+total_distance,608
+makespan,127
+total_cost,1557889.4
+agv_fixed_cost,18000

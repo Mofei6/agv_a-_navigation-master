@@ -1,0 +1,15 @@
+﻿metric,value
+candidate_agv_count,20
+used_agv_count,8
+pickup_count,2
+station_size,3x3
+total_delay,2713
+max_delay,265
+avg_delay,75.36
+total_distance,2594
+makespan,411
+best_score,29701834
+total_tardiness,2713
+max_tardiness,265
+total_wait,40
+workload_imbalance,1

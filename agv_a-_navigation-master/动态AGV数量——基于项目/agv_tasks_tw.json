@@ -1,0 +1,729 @@
+{
+  "name": "synthetic_agv_tw_30_seed_42",
+  "model": "infinite_battery_time_windows_conflict_free_paths",
+  "layout": {
+    "grid": {
+      "width": 24,
+      "height": 20,
+      "shift_x": 0,
+      "shift_y": 0
+    },
+    "points": [
+      {
+        "type": "supply",
+        "id": "SUPPLY-01",
+        "label": "SUPPLY",
+        "x": 12,
+        "y": 10,
+        "pitch": ""
+      },
+      {
+        "type": "pickup_slot",
+        "id": "PICK-1",
+        "label": "P1",
+        "x": 11,
+        "y": 10,
+        "pitch": ""
+      },
+      {
+        "type": "pickup_slot",
+        "id": "PICK-2",
+        "label": "P2",
+        "x": 13,
+        "y": 10,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-001",
+        "label": "S1",
+        "x": 21,
+        "y": 4,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-002",
+        "label": "S2",
+        "x": 1,
+        "y": 9,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-003",
+        "label": "S3",
+        "x": 8,
+        "y": 8,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-004",
+        "label": "S4",
+        "x": 5,
+        "y": 4,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-005",
+        "label": "S5",
+        "x": 22,
+        "y": 18,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-006",
+        "label": "S6",
+        "x": 3,
+        "y": 14,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-007",
+        "label": "S7",
+        "x": 2,
+        "y": 1,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-008",
+        "label": "S8",
+        "x": 3,
+        "y": 7,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-009",
+        "label": "S9",
+        "x": 8,
+        "y": 17,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-010",
+        "label": "S10",
+        "x": 20,
+        "y": 1,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-011",
+        "label": "S11",
+        "x": 18,
+        "y": 7,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-012",
+        "label": "S12",
+        "x": 21,
+        "y": 18,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-013",
+        "label": "S13",
+        "x": 14,
+        "y": 8,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-014",
+        "label": "S14",
+        "x": 15,
+        "y": 9,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-015",
+        "label": "S15",
+        "x": 1,
+        "y": 6,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-016",
+        "label": "S16",
+        "x": 14,
+        "y": 11,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-017",
+        "label": "S17",
+        "x": 9,
+        "y": 5,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-018",
+        "label": "S18",
+        "x": 7,
+        "y": 11,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-019",
+        "label": "S19",
+        "x": 4,
+        "y": 3,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-020",
+        "label": "S20",
+        "x": 13,
+        "y": 4,
+        "pitch": ""
+      }
+    ],
+    "supply": {
+      "type": "supply",
+      "id": "SUPPLY-01",
+      "label": "SUPPLY",
+      "x": 12,
+      "y": 10,
+      "pitch": ""
+    },
+    "pickup_points": [
+      {
+        "type": "pickup_slot",
+        "id": "PICK-1",
+        "label": "P1",
+        "x": 11,
+        "y": 10,
+        "pitch": ""
+      },
+      {
+        "type": "pickup_slot",
+        "id": "PICK-2",
+        "label": "P2",
+        "x": 13,
+        "y": 10,
+        "pitch": ""
+      }
+    ],
+    "drop_points": [
+      {
+        "type": "drop_point",
+        "id": "DP-001",
+        "label": "S1",
+        "x": 21,
+        "y": 4,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-002",
+        "label": "S2",
+        "x": 1,
+        "y": 9,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-003",
+        "label": "S3",
+        "x": 8,
+        "y": 8,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-004",
+        "label": "S4",
+        "x": 5,
+        "y": 4,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-005",
+        "label": "S5",
+        "x": 22,
+        "y": 18,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-006",
+        "label": "S6",
+        "x": 3,
+        "y": 14,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-007",
+        "label": "S7",
+        "x": 2,
+        "y": 1,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-008",
+        "label": "S8",
+        "x": 3,
+        "y": 7,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-009",
+        "label": "S9",
+        "x": 8,
+        "y": 17,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-010",
+        "label": "S10",
+        "x": 20,
+        "y": 1,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-011",
+        "label": "S11",
+        "x": 18,
+        "y": 7,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-012",
+        "label": "S12",
+        "x": 21,
+        "y": 18,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-013",
+        "label": "S13",
+        "x": 14,
+        "y": 8,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-014",
+        "label": "S14",
+        "x": 15,
+        "y": 9,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-015",
+        "label": "S15",
+        "x": 1,
+        "y": 6,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-016",
+        "label": "S16",
+        "x": 14,
+        "y": 11,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-017",
+        "label": "S17",
+        "x": 9,
+        "y": 5,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-018",
+        "label": "S18",
+        "x": 7,
+        "y": 11,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-019",
+        "label": "S19",
+        "x": 4,
+        "y": 3,
+        "pitch": ""
+      },
+      {
+        "type": "drop_point",
+        "id": "DP-020",
+        "label": "S20",
+        "x": 13,
+        "y": 4,
+        "pitch": ""
+      }
+    ],
+    "obstacles": []
+  },
+  "tasks": [
+    {
+      "id": "T0001",
+      "destination_id": "DP-012",
+      "destination_label": "S12",
+      "material": "M6",
+      "release_time": 0,
+      "window_start": 29,
+      "window_end": 80,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0002",
+      "destination_id": "DP-015",
+      "destination_label": "S15",
+      "material": "M5",
+      "release_time": 6,
+      "window_start": 19,
+      "window_end": 78,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0003",
+      "destination_id": "DP-010",
+      "destination_label": "S10",
+      "material": "M6",
+      "release_time": 12,
+      "window_start": 33,
+      "window_end": 104,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0004",
+      "destination_id": "DP-003",
+      "destination_label": "S3",
+      "material": "M2",
+      "release_time": 6,
+      "window_start": 23,
+      "window_end": 76,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0005",
+      "destination_id": "DP-004",
+      "destination_label": "S4",
+      "material": "M2",
+      "release_time": 20,
+      "window_start": 38,
+      "window_end": 102,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0006",
+      "destination_id": "DP-012",
+      "destination_label": "S12",
+      "material": "M6",
+      "release_time": 20,
+      "window_start": 36,
+      "window_end": 113,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0007",
+      "destination_id": "DP-003",
+      "destination_label": "S3",
+      "material": "M2",
+      "release_time": 36,
+      "window_start": 66,
+      "window_end": 111,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0008",
+      "destination_id": "DP-015",
+      "destination_label": "S15",
+      "material": "M6",
+      "release_time": 35,
+      "window_start": 53,
+      "window_end": 128,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0009",
+      "destination_id": "DP-011",
+      "destination_label": "S11",
+      "material": "M4",
+      "release_time": 16,
+      "window_start": 33,
+      "window_end": 70,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0010",
+      "destination_id": "DP-009",
+      "destination_label": "S9",
+      "material": "M2",
+      "release_time": 18,
+      "window_start": 34,
+      "window_end": 105,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0011",
+      "destination_id": "DP-016",
+      "destination_label": "S16",
+      "material": "M3",
+      "release_time": 50,
+      "window_start": 80,
+      "window_end": 144,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0012",
+      "destination_id": "DP-005",
+      "destination_label": "S5",
+      "material": "M6",
+      "release_time": 33,
+      "window_start": 60,
+      "window_end": 129,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0013",
+      "destination_id": "DP-019",
+      "destination_label": "S19",
+      "material": "M2",
+      "release_time": 60,
+      "window_start": 88,
+      "window_end": 148,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0014",
+      "destination_id": "DP-005",
+      "destination_label": "S5",
+      "material": "M1",
+      "release_time": 78,
+      "window_start": 103,
+      "window_end": 143,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0015",
+      "destination_id": "DP-005",
+      "destination_label": "S5",
+      "material": "M4",
+      "release_time": 42,
+      "window_start": 65,
+      "window_end": 138,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0016",
+      "destination_id": "DP-013",
+      "destination_label": "S13",
+      "material": "M5",
+      "release_time": 90,
+      "window_start": 114,
+      "window_end": 182,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0017",
+      "destination_id": "DP-001",
+      "destination_label": "S1",
+      "material": "M1",
+      "release_time": 32,
+      "window_start": 59,
+      "window_end": 111,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0018",
+      "destination_id": "DP-010",
+      "destination_label": "S10",
+      "material": "M6",
+      "release_time": 85,
+      "window_start": 100,
+      "window_end": 164,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0019",
+      "destination_id": "DP-009",
+      "destination_label": "S9",
+      "material": "M6",
+      "release_time": 108,
+      "window_start": 123,
+      "window_end": 190,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0020",
+      "destination_id": "DP-010",
+      "destination_label": "S10",
+      "material": "M3",
+      "release_time": 114,
+      "window_start": 143,
+      "window_end": 190,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0021",
+      "destination_id": "DP-006",
+      "destination_label": "S6",
+      "material": "M4",
+      "release_time": 120,
+      "window_start": 146,
+      "window_end": 181,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0022",
+      "destination_id": "DP-001",
+      "destination_label": "S1",
+      "material": "M1",
+      "release_time": 42,
+      "window_start": 63,
+      "window_end": 117,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0023",
+      "destination_id": "DP-008",
+      "destination_label": "S8",
+      "material": "M1",
+      "release_time": 132,
+      "window_start": 144,
+      "window_end": 184,
+      "priority": "High",
+      "priority_weight": 1.5
+    },
+    {
+      "id": "T0024",
+      "destination_id": "DP-018",
+      "destination_label": "S18",
+      "material": "M5",
+      "release_time": 69,
+      "window_start": 83,
+      "window_end": 160,
+      "priority": "High",
+      "priority_weight": 1.5
+    },
+    {
+      "id": "T0025",
+      "destination_id": "DP-006",
+      "destination_label": "S6",
+      "material": "M2",
+      "release_time": 96,
+      "window_start": 122,
+      "window_end": 195,
+      "priority": "High",
+      "priority_weight": 1.5
+    },
+    {
+      "id": "T0026",
+      "destination_id": "DP-018",
+      "destination_label": "S18",
+      "material": "M4",
+      "release_time": 75,
+      "window_start": 94,
+      "window_end": 154,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0027",
+      "destination_id": "DP-017",
+      "destination_label": "S17",
+      "material": "M1",
+      "release_time": 130,
+      "window_start": 143,
+      "window_end": 193,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0028",
+      "destination_id": "DP-011",
+      "destination_label": "S11",
+      "material": "M5",
+      "release_time": 54,
+      "window_start": 82,
+      "window_end": 152,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0029",
+      "destination_id": "DP-008",
+      "destination_label": "S8",
+      "material": "M2",
+      "release_time": 56,
+      "window_start": 68,
+      "window_end": 148,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    },
+    {
+      "id": "T0030",
+      "destination_id": "DP-003",
+      "destination_label": "S3",
+      "material": "M3",
+      "release_time": 58,
+      "window_start": 78,
+      "window_end": 117,
+      "priority": "Normal",
+      "priority_weight": 1.0
+    }
+  ],
+  "max_agvs": 10,
+  "params": {
+    "move_time": 1,
+    "load_time": 2,
+    "unload_time": 2,
+    "allow_diagonal": false,
+    "battery": "infinite",
+    "conflict_policy": "space_time_vertex_and_edge_reservation"
+  },
+  "notes": "Synthetic instance with infinite battery and time windows."
+}
